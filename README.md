@@ -6,7 +6,7 @@
 
 ## Wireframe
 
-![wireframe](/Users/Student_M16/Desktop/gameProject/Game-Project-Bootcamp/imgs/WireFrame.JPG)
+![wireframe](/imgs/WireFrame.JPG)
 
 
 
